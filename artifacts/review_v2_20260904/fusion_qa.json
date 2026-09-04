@@ -1,0 +1,82 @@
+{
+  "parts": {
+    "LEFT": {
+      "petg_extents_mm": [
+        26.0,
+        40.5,
+        26.7
+      ],
+      "tpu_extents_mm": [
+        15.48,
+        74.019,
+        23.99
+      ],
+      "petg_volume_mm3": 11988.35,
+      "tpu_volume_mm3": 7215.037,
+      "joint_centres_yz_mm": [
+        [
+          13.0,
+          5.0
+        ],
+        [
+          13.0,
+          19.5
+        ],
+        [
+          34.0,
+          19.5
+        ]
+      ],
+      "minimum_washer_seat_floor_mm": 4.46,
+      "minimum_nut_seat_floor_mm": 2.56
+    },
+    "RIGHT": {
+      "petg_extents_mm": [
+        26.0,
+        40.5,
+        26.7
+      ],
+      "tpu_extents_mm": [
+        15.48,
+        74.019,
+        23.99
+      ],
+      "petg_volume_mm3": 11988.35,
+      "tpu_volume_mm3": 7215.037,
+      "joint_centres_yz_mm": [
+        [
+          13.0,
+          5.0
+        ],
+        [
+          13.0,
+          19.5
+        ],
+        [
+          34.0,
+          19.5
+        ]
+      ],
+      "minimum_washer_seat_floor_mm": 4.46,
+      "minimum_nut_seat_floor_mm": 2.56
+    }
+  },
+  "hardware_dimensions_provisional": true,
+  "closed_gaps_mm": {
+    "PETG": 1.0,
+    "bare_TPU": 0.0
+  },
+  "interference_results": [],
+  "screw_tip_global_z_mm": [
+    -17.1,
+    -17.1,
+    -17.1,
+    -17.1,
+    -17.1,
+    -17.1
+  ],
+  "protrusion_beyond_petg_mm": 4.1,
+  "protrusion_beyond_nominal_nut_mm": 4.2,
+  "nominal_nut_engagement_mm": 2.4,
+  "status": "PASS"
+}

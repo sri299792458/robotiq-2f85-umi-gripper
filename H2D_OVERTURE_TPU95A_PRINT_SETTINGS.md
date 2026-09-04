@@ -1,6 +1,6 @@
 # Bambu H2D — Overture TPU 95A finger profile
 
-Use this for `2F85_TPU95A_Finger_PRINT_2.stl`. This is regular Overture TPU 95A, not Overture High Speed TPU and not Bambu TPU for AMS.
+Use this existing material/process profile for [`V2_TPU95A_FINGER_PRINT_2.stl`](artifacts/print_v2_20260904/V2_TPU95A_FINGER_PRINT_2.stl). The V2 geometry still needs physical validation. This is regular Overture TPU 95A, not Overture High Speed TPU and not Bambu TPU for AMS.
 
 ## Filament preparation and feed
 
@@ -13,7 +13,7 @@ Use this for `2F85_TPU95A_Finger_PRINT_2.stl`. This is regular Overture TPU 95A,
 
 ## Orientation
 
-- Use **Lay on Face** on either large flat side of the finger.
+- The V2 print-pack STL is already broad-side down. For an assembly-orientation export, use **Lay on Face** on either large flat side of the finger.
 - The six bays must face upward and the part must be 15.48 mm tall.
 - The three M3 clearance holes must have vertical axes.
 - Supports: off.

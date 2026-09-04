@@ -1,0 +1,134 @@
+{
+  "configuration": "official closed STEP",
+  "excluded_stock_fingertips": [
+    "Body10",
+    "Body11",
+    "Body6",
+    "Body7"
+  ],
+  "new_part_interferences": [
+    {
+      "one": "PETG Adapter LEFT",
+      "two": "Body2",
+      "volume_mm3": 0.036828,
+      "min_mm": [
+        -19.1589,
+        124.82,
+        -8.1
+      ],
+      "max_mm": [
+        -9.5403,
+        128.82,
+        8.1
+      ]
+    },
+    {
+      "one": "PETG Adapter RIGHT",
+      "two": "Body1",
+      "volume_mm3": 0.036817,
+      "min_mm": [
+        9.542,
+        124.82,
+        -8.1
+      ],
+      "max_mm": [
+        19.1589,
+        128.82,
+        8.1
+      ]
+    }
+  ],
+  "hardware_clearances": [
+    {
+      "hardware": "M3x30 screw 1 - nominal unthreaded envelope",
+      "nearest_stock_body": "Body2",
+      "clearance_mm": 3.6668
+    },
+    {
+      "hardware": "M3x30 screw 2 - nominal unthreaded envelope",
+      "nearest_stock_body": "Body2",
+      "clearance_mm": 3.5347
+    },
+    {
+      "hardware": "M3x30 screw 3 - nominal unthreaded envelope",
+      "nearest_stock_body": "Body2",
+      "clearance_mm": 23.6943
+    },
+    {
+      "hardware": "M3 washer 1 - PROVISIONAL 7 x 0.5 mm",
+      "nearest_stock_body": "Body2",
+      "clearance_mm": 9.208
+    },
+    {
+      "hardware": "M3 washer 2 - PROVISIONAL 7 x 0.5 mm",
+      "nearest_stock_body": "Body2",
+      "clearance_mm": 9.1373
+    },
+    {
+      "hardware": "M3 washer 3 - PROVISIONAL 7 x 0.5 mm",
+      "nearest_stock_body": "Body2",
+      "clearance_mm": 23.7416
+    },
+    {
+      "hardware": "M3 nut 1 - nominal thread-free reference",
+      "nearest_stock_body": "Body2",
+      "clearance_mm": 7.6772
+    },
+    {
+      "hardware": "M3 nut 2 - nominal thread-free reference",
+      "nearest_stock_body": "Body2",
+      "clearance_mm": 7.5967
+    },
+    {
+      "hardware": "M3 nut 3 - nominal thread-free reference",
+      "nearest_stock_body": "Body2",
+      "clearance_mm": 23.4763
+    },
+    {
+      "hardware": "M3x30 screw 1 - nominal unthreaded envelope",
+      "nearest_stock_body": "Body1",
+      "clearance_mm": 3.6668
+    },
+    {
+      "hardware": "M3x30 screw 2 - nominal unthreaded envelope",
+      "nearest_stock_body": "Body1",
+      "clearance_mm": 3.5347
+    },
+    {
+      "hardware": "M3x30 screw 3 - nominal unthreaded envelope",
+      "nearest_stock_body": "Body1",
+      "clearance_mm": 23.6943
+    },
+    {
+      "hardware": "M3 washer 1 - PROVISIONAL 7 x 0.5 mm",
+      "nearest_stock_body": "Body1",
+      "clearance_mm": 9.208
+    },
+    {
+      "hardware": "M3 washer 2 - PROVISIONAL 7 x 0.5 mm",
+      "nearest_stock_body": "Body1",
+      "clearance_mm": 9.1373
+    },
+    {
+      "hardware": "M3 washer 3 - PROVISIONAL 7 x 0.5 mm",
+      "nearest_stock_body": "Body1",
+      "clearance_mm": 23.7416
+    },
+    {
+      "hardware": "M3 nut 1 - nominal thread-free reference",
+      "nearest_stock_body": "Body1",
+      "clearance_mm": 7.6772
+    },
+    {
+      "hardware": "M3 nut 2 - nominal thread-free reference",
+      "nearest_stock_body": "Body1",
+      "clearance_mm": 7.5967
+    },
+    {
+      "hardware": "M3 nut 3 - nominal thread-free reference",
+      "nearest_stock_body": "Body1",
+      "clearance_mm": 23.4763
+    }
+  ],
+  "minimum_hardware_to_robotiq_clearance_mm": 3.5347
+}

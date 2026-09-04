@@ -1,0 +1,50 @@
+[
+  {
+    "file": "V2_PETG_LEFT_PRINT_1.stl",
+    "material": "PETG",
+    "quantity": 1,
+    "dimensions_xyz_mm": [
+      26.0,
+      26.7,
+      40.5
+    ],
+    "watertight": true,
+    "consistent_winding": true,
+    "connected_solids": 1,
+    "volume_preserved": true,
+    "sha256": "5e6a5f99fc4c53e8d0ee2ea0b93f75a7d74601dd5117899def1148dafa940a60",
+    "source": "REVIEW_V2_2F85_PETG_Adapter_LEFT_M3_ROOT_DOWN_PRINT_1.stl"
+  },
+  {
+    "file": "V2_PETG_RIGHT_PRINT_1.stl",
+    "material": "PETG",
+    "quantity": 1,
+    "dimensions_xyz_mm": [
+      26.0,
+      26.7,
+      40.5
+    ],
+    "watertight": true,
+    "consistent_winding": true,
+    "connected_solids": 1,
+    "volume_preserved": true,
+    "sha256": "b21575a40a0e9ee2c26473f0a89a794190a07b648065a211ed83d983dd8535aa",
+    "source": "REVIEW_V2_2F85_PETG_Adapter_RIGHT_M3_ROOT_DOWN_PRINT_1.stl"
+  },
+  {
+    "file": "V2_TPU95A_FINGER_PRINT_2.stl",
+    "material": "TPU 95A",
+    "quantity": 2,
+    "dimensions_xyz_mm": [
+      74.0187,
+      23.9902,
+      15.48
+    ],
+    "watertight": true,
+    "consistent_winding": true,
+    "connected_solids": 1,
+    "volume_preserved": true,
+    "sha256": "f7f8251c896d94bcb8f892fb28f7a93b721baca8ab3ba77d362a6906f161e8e8",
+    "source": "REVIEW_V2_2F85_TPU95A_Finger_M3_PRINT_2.stl"
+  }
+]

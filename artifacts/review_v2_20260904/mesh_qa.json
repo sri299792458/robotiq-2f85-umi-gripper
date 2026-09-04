@@ -1,0 +1,37 @@
+[
+  {
+    "file": "REVIEW_V2_2F85_PETG_Adapter_LEFT_M3_PRINT_1.stl",
+    "extents_mm": [
+      26.0,
+      40.5,
+      26.7
+    ],
+    "volume_mm3": 11991.022,
+    "watertight": true,
+    "consistent_winding": true,
+    "root_down_file": "REVIEW_V2_2F85_PETG_Adapter_LEFT_M3_ROOT_DOWN_PRINT_1.stl"
+  },
+  {
+    "file": "REVIEW_V2_2F85_PETG_Adapter_RIGHT_M3_PRINT_1.stl",
+    "extents_mm": [
+      26.0,
+      40.5,
+      26.7
+    ],
+    "volume_mm3": 11991.022,
+    "watertight": true,
+    "consistent_winding": true,
+    "root_down_file": "REVIEW_V2_2F85_PETG_Adapter_RIGHT_M3_ROOT_DOWN_PRINT_1.stl"
+  },
+  {
+    "file": "REVIEW_V2_2F85_TPU95A_Finger_M3_PRINT_2.stl",
+    "extents_mm": [
+      15.48,
+      74.0187,
+      23.9902
+    ],
+    "volume_mm3": 7217.996,
+    "watertight": true,
+    "consistent_winding": true
+  }
+]
